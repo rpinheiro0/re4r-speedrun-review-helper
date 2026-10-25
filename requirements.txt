@@ -1,0 +1,4 @@
+opencv-python-headless
+numpy
+rapidocr-onnxruntime
+yt-dlp
